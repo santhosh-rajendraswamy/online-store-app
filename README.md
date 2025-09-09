@@ -12,11 +12,11 @@ A libe demo of the application can be seen [here](https://saddamakhtar88.github.
 
    - The top bar shall be common across the application. It shall contain 3 elements -
 
-     1. [Buhler logo](logos\buhler-logo.svg) - The logo should be clickable and should land onto "Product List" page on click.
+     1. [Buhler logo](logos/buhler-logo.svg) - The logo should be clickable and should land onto "Product List" page on click.
      2. Current date and time.
      3. Cart details - the user should be able to navigate to "Checkout" page on click.
 
-   ![Header](snapshots\header.png)
+   ![Header](snapshots/header.png)
 
 2. Product list
 
@@ -25,7 +25,7 @@ A libe demo of the application can be seen [here](https://saddamakhtar88.github.
    - Each section shall have a heading followed by list of products.
    - Each product card shall display image, product name, price, and "Add to Cart" button.
 
-   ![Product List](snapshots\product-list.png)
+   ![Product List](snapshots/product-list.png)
 
 3. Product Details
 
@@ -33,7 +33,7 @@ A libe demo of the application can be seen [here](https://saddamakhtar88.github.
    - The page shall contain details of a product - Image, Name, type of product, price, and "Add to Cart" button.
    - The page shall also have the ability to go back to products list page.
 
-   ![Product Detail](snapshots\product-detail.png)
+   ![Product Detail](snapshots/product-detail.png)
 
 4. Checkout
 
@@ -41,7 +41,7 @@ A libe demo of the application can be seen [here](https://saddamakhtar88.github.
    - Each row shall contain product image, name, type, price, ability to remove product from cart.
    - It should show a "Total" - sum of all the product prices in the cart.
 
-   ![Checkout](snapshots\checkout.png)
+   ![Checkout](snapshots/checkout.png)
 
 ### Enhancements Within the Assignment’s Spirit
 
