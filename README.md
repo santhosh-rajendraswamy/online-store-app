@@ -1,10 +1,6 @@
-### Buhler Online store
+### Developer Challenge | [Vue.js](https://vuejs.org/)
 
-A single-page web app that lets Bühler customers explore the latest products and place orders online.
-
-### Demo
-
-A libe demo of the application can be seen [here](https://saddamakhtar88.github.io/online-store-app/)
+Implement an **Online Store** : A single-page web app that lets Bühler customers explore the latest products and place orders online. A live demo of the application can be seen [here](https://saddamakhtar88.github.io/online-store-app/)
 
 ### Product requirements
 
@@ -14,7 +10,7 @@ A libe demo of the application can be seen [here](https://saddamakhtar88.github.
 
      1. [Buhler logo](logos/buhler-logo.svg) - The logo should be clickable and should land onto "Product List" page on click.
      2. Current date and time.
-     3. Cart details - the user should be able to navigate to "Checkout" page on click.
+     3. Cart details - The placeholder should show count of products in cart. The user should be able to navigate to "Checkout" page on click.
 
    ![Header](snapshots/header.png)
 
@@ -50,3 +46,25 @@ A libe demo of the application can be seen [here](https://saddamakhtar88.github.
 3. Do not change the primary problem statement, user journey, or acceptance criteria.
 4. Aim for depth over breadth: a few well-executed improvements beat many partial ones.
 5. Documentation and developer experience improvements.
+
+### Assignment Submission
+
+Create a public Git repository and include the following:
+
+1. Repository
+
+   - Public repo on GitHub, GitLab, or Bitbucket.
+
+2. What to include
+
+   - Source code of the app.
+   - This README.md (updated with any setup notes).
+
+3. Getting started section
+
+   - Clear steps to install, run, and build.
+   - Mention required Node.js version if applicable.
+
+4. Submission
+
+   - Share the public repository URL.
