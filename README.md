@@ -8,20 +8,20 @@ Implement an **Online Store** : A single-page web app that lets Bühler customer
 
    - The top bar shall be common across the application. It shall contain 3 elements -
 
-     1. [Buhler logo](logos/buhler-logo.svg) - The logo should be clickable and should land onto "Product List" page on click.
+     1. [Buhler logo](docs/logos/buhler-logo.svg) - The logo should be clickable and should land onto "Product List" page on click.
      2. Current date and time.
      3. Cart details - The placeholder should show count of products in cart. The user should be able to navigate to "Checkout" page on click.
 
-   ![Header](snapshots/header.png)
+   ![Header](docs/snapshots/header.png)
 
 2. Product list
 
    - The page shall contain section-wise list of products.
-   - You can refer to [products.json](http/products.json) for data structure and sample.
+   - You can refer to [products.json](docs/http/products.json) for data structure and sample.
    - Each section shall have a heading followed by list of products.
    - Each product card shall display image, product name, price, and "Add to Cart" button.
 
-   ![Product List](snapshots/product-list.png)
+   ![Product List](docs/snapshots/product-list.png)
 
 3. Product Details
 
@@ -29,7 +29,7 @@ Implement an **Online Store** : A single-page web app that lets Bühler customer
    - The page shall contain details of a product - Image, Name, type of product, price, and "Add to Cart" button.
    - The page shall also have the ability to go back to products list page.
 
-   ![Product Detail](snapshots/product-detail.png)
+   ![Product Detail](docs/snapshots/product-detail.png)
 
 4. Checkout
 
@@ -37,7 +37,7 @@ Implement an **Online Store** : A single-page web app that lets Bühler customer
    - Each row shall contain product image, name, type, price, ability to remove product from cart.
    - It should show a "Total" - sum of all the product prices in the cart.
 
-   ![Checkout](snapshots/checkout.png)
+   ![Checkout](docs/snapshots/checkout.png)
 
 ### Enhancements Within the Assignment’s Spirit
 
